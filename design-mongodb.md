@@ -8,7 +8,7 @@ Data user aplikasi *Skiljek*:
 - Phone Number
 
 Schema:
-```json
+```
 {
     "_id": ObjectId('AAA'),
     "fullName": "Randy Christian Saputra",
@@ -27,7 +27,7 @@ Data alamat user aplikasi *SkilShop*:
 - Adress (Max 2)
 
 Schema:
-```json
+```
 {
     "_id": ObjectId('AAA'),
     "fullName": "Randy Christian Saputra",
@@ -57,7 +57,7 @@ Data product aplikasi *SkilShop*:
 - Variants (Many)
 
 Product Schema
-```json
+```
 // Product
 {
     "_id": ObjectId('ZZZ'),
@@ -71,7 +71,7 @@ Product Schema
 ```
 
 Variants Schema
-```json
+```
 // Variants
 {
     "_id": ObjectId('AAA'),
@@ -100,7 +100,7 @@ Data cinema aplikasi *Skilflix*:
 
 Films Schema:
 
-```json
+```
 // Films
 {
     "_id": ObjectId("FFF1"),
@@ -114,7 +114,7 @@ Films Schema:
 
 Cinemas Schema:
 
-```json
+```
 // Cinemas
 {
     "_id": ObjectId("CCC1"),
